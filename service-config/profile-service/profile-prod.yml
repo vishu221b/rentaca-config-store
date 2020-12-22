@@ -1,8 +1,3 @@
 server:
   port: 8081
-spring:
-  application:
-    name: profile
-  jpa:
-    hibernate:
-      ddl-auto: update
+
