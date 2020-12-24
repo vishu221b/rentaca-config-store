@@ -1,6 +1,6 @@
 spring:
   datasource:
-    url: jdbc:postgresql://127.0.0.1:5432/rent-a-car?createDatabaseIfNotExist=true
+    url: jdbc:postgresql://127.0.0.1:5432/rent-a-car
     username: cofix
     password: C0fiX
     driver-class-name: org.postgresql.Driver
